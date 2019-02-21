@@ -4,3 +4,5 @@ Netflix_Shows.csv
 confi.py
 Netflix_Shows_nt_wrkng.csv
 .ipynb_checkpoints
+responses.json
+netflix_omdb_key_categories.csv
