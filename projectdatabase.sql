@@ -21,6 +21,6 @@ create table episodes (
 SELECT podcast.id, podcast.title, episodes.`description`, episodes.title
 FROM podcasts
 JOIN episodes
-ON podcasts.id = episodes.episode_id;
+ON podcasts.id = episodes.podcast_id;
 
 
